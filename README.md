@@ -16,6 +16,8 @@ The dataset consists of synthetic credit card transaction records designed to re
 - Fraud rate: approximately 1.5 percent  
 - Data type: synthetic  
 
+The dataset can be found here: https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset
+
 ### Features
 
 | Feature | Description |
